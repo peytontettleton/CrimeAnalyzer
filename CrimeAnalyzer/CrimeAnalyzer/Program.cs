@@ -19,6 +19,7 @@ namespace CrimeAnalyzer
             {
                 Console.WriteLine("Call Format: Crime Analyzer <Crime_CSV_File_path> <report_file_path>");
             }
+                Console.WriteLine("Honestly, I don't know what I'm doing with this, and I should have saw a TA");
         }
     }
 }
